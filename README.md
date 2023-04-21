@@ -12,7 +12,7 @@ YouTube has 2.1 billion monthly active users based all around the world. That nu
 Hence, it is important for content creators to know and consider what are some factors that can make a video go viral and whether there are any trends that can be found in this data analysis. 
 </li>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/47933193/164981422-834ebc32-3be4-430e-b69e-c38dcf065d3e.png"><img src="https://github.com/DeuelT/SC1015_Mini_Project/blob/main/youtube_picture.PNG" alt="MAL" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/DeuelT/SC1015_Mini_Project/blob/main/youtube_picture.PNG"><img src="https://github.com/DeuelT/SC1015_Mini_Project/blob/main/youtube_picture.PNG" alt="MAL" style="max-width: 100%;"></a></p>
 
 <h2> Project Goal: </h2>
 
