@@ -43,9 +43,6 @@ We used one dataset from Kaggle and one dataset from Github Repository, cleaned 
 <li>
 <a href = "https://github.com/DeuelT/SC1015_Mini_Project/blob/main/SC1015%20Mini-Project%20-%20Classification%20and%20Clustering.ipynb"> Classification/Clustering </a>
 </li>
-<li>
-<a href = "https://github.com/DeuelT/SC1015_Mini_Project/blob/main/SC1015%20Mini-Project%20-%20Deep%20Learning%20%26%20Machine%20Learning.ipynb"> Deep Learning and Machine Learning </a>
-</li>
 
 <h2> Slide Deck: </h2>
 Presentation Slides
