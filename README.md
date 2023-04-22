@@ -45,7 +45,9 @@ We used one dataset from Kaggle and one dataset from Github Repository, cleaned 
 </li>
 
 <h2> Slide Deck: </h2>
-Presentation Slides
+<li>
+<a href = "https://github.com/DeuelT/SC1015_Mini_Project/blob/main/SC1015%20mini%20project%20presentation_YoutubeInsights.pdf"> Presentation Slides </a>
+</li>
 
 <h2> Overview of DataScience Pipeline:</h2> 
 
